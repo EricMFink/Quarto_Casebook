@@ -1,0 +1,7 @@
+::: {.cover}
+
+# Cover {.unnumbered}
+
+![](../img/CasebookCover.png)
+
+:::
