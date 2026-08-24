@@ -18,7 +18,7 @@ meets: 'Mondays, Wednesdays, & Fridays, 10:00–11:30 am'
 format:
   pdf:
     template: syllabus.tex
-    output-file: SubjectSyllabus
+    output-file: Quarto_CasebookSyllabus
 
 ---
 

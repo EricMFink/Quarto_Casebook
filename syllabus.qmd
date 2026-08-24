@@ -1,6 +1,6 @@
 # Syllabus {.unnumbered}
 
-[{{< bi download >}}](SubjectSyllabus.pdf "Download Syllabus")
+[{{< bi download >}}]({{< var repo >}}Syllabus.pdf "Download Syllabus")
 
 ::: {.syllabus}
 

@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Law School Subject"
+  title: "Quarto Casebook"
   subtitle: Elon Law School
   author: Eric M. Fink
   date-format: MMMM YYYY
@@ -26,7 +26,7 @@ book:
       - icon: file-pdf
         menu: 
           - text: "Casebook PDF"
-            href: LawSchoolCasebook.pdf
+            href: Quarto_Casebook.pdf
       - icon: github
         menu:
           - text: Report an issue
@@ -46,12 +46,6 @@ book:
       - 01-Front/preface.qmd
       - 02-Main/chap1.qmd
       - 02-Main/chap2.qmd
-      - 02-Main/chap3.qmd
-      - 02-Main/chap4.qmd
-      - 02-Main/chap5.qmd
-      - 02-Main/chap6.qmd
-      - 02-Main/chap7.qmd
-      - 02-Main/chap8.qmd
       - 03-Back/ack.qmd
       - 03-Back/colophon.qmd
 
