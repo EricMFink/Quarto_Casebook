@@ -40,11 +40,11 @@ This course is intended to prepare you for legal practice by developing the know
 
 ### Required
 
-Civil Procedure: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/CivPro](https://www.emfink.net/CivPro/)]{.mono-font}.
+Civil Procedure: An Open-Source Casebook (v.1.0 2026). Available on the course website: [[emfink.net/Quarto_Casebook](https://www.emfink.net/Quarto_Casebook/)]{.mono-font}.
 
 ### Suggested
 
-Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). This hornbook provides concise overviews of the topics covered in the course. 
+Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024). This hornbook provides concise overviews of the topics covered in the course. 
 
 ## Policies {.unnumbered}
 
@@ -53,7 +53,7 @@ Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024).
 Your final grade for the term will be based on a midterm (25%) and final exam (75%):
 
 - The midterm will be open-book/open-note and will consist of multiple choice questions. 
-- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample questions from past exams are posted on the [course website](https://www.emfink.net/CivPro/). 
+- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA).
 
 ### Attendance
 
