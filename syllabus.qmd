@@ -28,14 +28,6 @@
 
 Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
 
-### Teaching Assistants {.unnumbered}
-
-{{< var ta >}}
-
-[{{< var ta-email >}}](mailto:{{< var ta-email >}})
-
-Office hours: {{< var ta-hours >}}
-
 :::
 
 ## Description {.unnumbered}
