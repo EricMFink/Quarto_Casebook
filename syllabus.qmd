@@ -3,42 +3,40 @@ format:
   html:
     css: syllabus.css
     number-sections: false
-  pdf:
-    template: pdf/syllabus.tex
-    output-file: CivProSyllabus
 ---
+
 
 # Syllabus {.unnumbered}
 
-[{{< bi download >}}]({{< var repo >}}Syllabus.pdf "Download Syllabus")
+[{{< bi download >}}]({{< var casebook.repo >}}Syllabus.pdf "Download Syllabus")
 
 ::: {.syllabus-header}
 
-# {{< var subject >}} {.unlisted}
+# {{< var casebook.title >}} {.unlisted}
 
-###### {{< var institution >}} {.unlisted}
+##### {{< var institution.name >}} {.unlisted}
 
-###### {{< var term >}} {.unlisted}
+##### {{< var class.term >}} {.unlisted}
 
-###### {{< var room >}} {.unlisted}
+##### {{< var class.room >}} {.unlisted}
 
-###### {{< var meets >}} {.unlisted}
+##### {{< var class.meets >}} {.unlisted}
 
-##### Professor {.unlisted}
+#### Professor {.unlisted}
 
-###### {{< var author >}} {.unlisted}
+##### {{< var author.name >}} {.unlisted}
 
-###### {{< var phone >}} {.unlisted}
+##### {{< var author.phone >}} {.unlisted}
 
-###### [{{< var email >}}](mailto:{{< var email >}}) {.unlisted}
+##### [{{< var author.email >}}](mailto:{{< var author.email >}}) {.unlisted}
 
-###### Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller} {.unlisted}
+##### Office hours: [[calendly.com/emfink]({{< var author.appointments >}})]{.mono-font-smaller} {.unlisted}
 
-##### Teaching Assistants {.unlisted}
+#### Teaching Assistants {.unlisted}
 
-###### {{< var ta >}} {.unlisted}
+##### {{< var ta.name >}} {.unlisted}
 
-###### [{{< var ta-email >}}](mailto:{{< var ta-email >}}) {.unlisted}
+##### [{{< var ta.email >}}](mailto:{{< var ta.email >}}) {.unlisted}
 
 :::
 

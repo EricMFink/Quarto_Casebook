@@ -8,7 +8,7 @@ This course is intended to prepare you for legal practice by developing the know
 
 ## Required
 
-Civil Procedure: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/Quarto_Casebook](https://www.emfink.net/Quarto_Casebook/)]{.mono-font}.
+Civil Procedure: An Open-Source Casebook (v.1.0, September 2026). Available on the course website: [[emfink.net/Quarto_Casebook](https://www.emfink.net/Quarto_Casebook/)]{.mono-font}.
 
 ## Suggested
 

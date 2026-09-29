@@ -20,8 +20,8 @@ All original content is licensed under a [Creative Commons Attribution NonCommer
 
 #### [https://emfink.net/ElonLaw](https://emfink.net/ElonLaw/)
 
-### Source Code: [https://github.com/EricMFink/{{< var repo >}}](https://github.com/EricMFink/{{< var repo >}})
+### Source Code: [https://github.com/EricMFink/{{< var casebook.repo >}}](https://github.com/EricMFink/{{< var casebook.repo >}})
 
-### Version {{< var version >}}, {{< now month >}} {{< now year >}}
+### Version {{< var casebook.version >}}, {{< now month >}} {{< now year >}}
 
 :::

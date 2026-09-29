@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-{{< var description >}}
+{{< var casebook.description >}}
 
 Most of the materials reproduced here are in the public domain; excerpts from copyrighted materials are included for teaching purposes under the fair use doctrine. Materials have been redacted to omit passages not pertinent to the learning objectives. Judicial opinions have also been "cleaned up"[^Preface1] for ease of reading. 
 

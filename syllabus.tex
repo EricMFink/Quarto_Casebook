@@ -172,8 +172,14 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
   allcolors=DarkMidnightBlue,
   breaklinks=true,
   pdfusetitle=true,
-  pdfauthor={$author.name$},
-  pdftitle={$casebook.title$},
+  pdfauthor={$author$},
+  pdftitle={$title$},
+  $if(subject)$
+  pdfsubject={$subject$},
+  $endif$
+  $if(keywords)$
+  pdfkeywords={$for(keywords)$$keywords$$sep$, $endfor$},
+  $endif$
   pdfproducer=LateX via pandoc,
   pdfcreator=LateX via pandoc
 }
@@ -186,12 +192,12 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
 
 \color{OffBlack}
 
-{\huge\sffamily\color{Maroon}{$class.title$}}
-\vspace{1em}
-\subparagraph{Elon Law School}
-\subparagraph{$class.term$}
-$if(class.room)$\subparagraph{$class.room$}$endif$
-$if(class.meets)$\subparagraph{$class.meets$}$endif$
+{\huge\sffamily\color{Maroon}{$title$}}
+
+\subparagraph{$institution$}
+\subparagraph{$term$}
+$if(room)$\subparagraph{$room$}$endif$
+$if(meets)$\subparagraph{$meets$}$endif$
 \vspace{1em}
 
 {\itshape{Professor}}
@@ -201,9 +207,9 @@ $if(class.meets)$\subparagraph{$class.meets$}$endif$
 \subparagraph{Office Hours: {\url{calendly.com/emfink/}}}
 $if(ta)$
 \vspace{1em}
-{\itshape{Teaching Assistant}}
-\subparagraph{$ta.name$}
-\subparagraph{$ta.email$}
+{\subparagraph{Teaching Assistant}}
+\subparagraph{$ta$}
+\subparagraph{$ta-email$}
 $endif$
 \vspace{1em}
 
