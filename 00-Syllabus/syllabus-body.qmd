@@ -8,13 +8,11 @@ This course is intended to prepare you for legal practice by developing the know
 
 ## Required
 
-Civil Procedure: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/CivPro](https://www.emfink.net/Quarto_Casebook/)]{.mono-font}.
+Civil Procedure: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/Quarto_Casebook](https://www.emfink.net/Quarto_Casebook/)]{.mono-font}.
 
 ## Suggested
 
-Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). This hornbook provides concise overviews of the topics covered in the course. Relevant portions for each unit are listed in the Schedule & Assignments section of the syllabus. These are optional, but you may find them helpful to provide context for the assigned reading.
-
-Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.) or _The Glannon Guide to Civil Procedure_ (Aspen 5th ed.). These are two popular study aids for Civil Procedure, presenting similar content in different formats. 
+Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024). 
 
 # Policies
 
