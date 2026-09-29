@@ -7,6 +7,7 @@
 \usepackage{sidenotes}
 \usepackage{booktabs}
 \usepackage{pdfpages}
+%\usepackage[onehalfspacing]{setspace}
 %\usepackage[defaultlines=2,all]{nowidow}
 %\usepackage{ragged2e}
 \raggedbottom
@@ -14,10 +15,11 @@
 \usepackage{xcolor}
 \definecolor{OffBlack}{HTML}{191919}
 \definecolor{Maroon}{HTML}{800000}
-\definecolor{BlueJayBlue}{HTML}{002D72}
+\definecolor{DarkMidnightBlue}{HTML}{002D72}
+\definecolor{TarHeelBlue}{HTML}{4b9cd3}
 \definecolor{RacingGreen}{HTML}{004225}
 \definecolor{LightGrey}{HTML}{d5d8dc}
-\definecolor{PenguinRed}{HTML}{e23e35}
+\definecolor{PaperbackRed}{HTML}{e23e35}
 \definecolor{quarto-callout-color}{HTML}{909090}
 \definecolor{quarto-callout-note-color}{HTML}{0758E5}
 \definecolor{quarto-callout-important-color}{HTML}{CC1914}
@@ -46,11 +48,11 @@
     BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
 
-%\newfontface\coverfont{FrutigerCE-Roman.ttf}[
-%	Path           = fonts/ ,
-%    BoldFont       = FrutigerCE-Black.ttf ,
-%    ItalicFont     = FrutigerCE-Italic.ttf ,
-%    BoldItalicFont = FrutigerCE-BoldItalic.ttf ]
+\newfontface\coverfont{FrutigerCE-Roman.ttf}[
+	Path           = fonts/ ,
+    BoldFont       = FrutigerCE-Black.ttf ,
+    ItalicFont     = FrutigerCE-Italic.ttf ,
+    BoldItalicFont = FrutigerCE-BoldItalic.ttf ]
 
 % font style & text alignment for margin notes
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
@@ -133,16 +135,16 @@
   []
 
 % TOC entries
-\setkomafont{chapterentry}{\Large}
+\setkomafont{chapterentry}{\large}
 %\newcommand*{\sectocentry}[1]{\large #1}
 %\newcommand*{\subsectocentry}[1]{\normalsize #1}
 %\newcommand*{\subsubsectocentry}[1]{\small #1}
 %\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\sectocentry]{section}
 %\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsectocentry]{subsection}
 %\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsubsectocentry]{subsubsection}
-\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\large]{tocline}{section}
+\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{section}
 \DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{subsection}
-\DeclareTOCStyleEntry[beforeskip=.5em,numwidth=0em,indent=4em,entryformat=\small]{tocline}{subsubsection}
+\DeclareTOCStyleEntry[beforeskip=.5em,numwidth=0em,indent=2em,entryformat=\small]{tocline}{subsubsection}
 
 % Case, etc. first heading
 \newcommand{\casesection}[1]{\needspace{4\baselineskip}\vspace{.5em}\rmfamily{\bfseries{\centering{#1}\par}}}

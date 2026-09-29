@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Quarto Casebook"
+  title: "Law School Subject"
   subtitle: Elon Law School
   author: Eric M. Fink
   date-format: MMMM YYYY
@@ -10,7 +10,7 @@ book:
   page-navigation: true
   page-footer:
       center: 
-        - text: "Last updated: {{< now >}}"
+        - text: "Last updated {{< now >}}"
   sidebar:
     style: "floating"
     search: true
@@ -26,7 +26,7 @@ book:
       - icon: file-pdf
         menu: 
           - text: "Casebook PDF"
-            href: Quarto_Casebook.pdf
+            href: SubjectCasebook.pdf
       - icon: github
         menu:
           - text: Report an issue
@@ -46,8 +46,15 @@ book:
       - 01-Front/preface.qmd
       - 02-Main/chap1.qmd
       - 02-Main/chap2.qmd
+      - 02-Main/chap3.qmd
+      - 02-Main/chap4.qmd
+      - 02-Main/chap5.qmd
+      - 02-Main/chap6.qmd
+      - 02-Main/chap7.qmd
+      - 02-Main/chap8.qmd
       - 03-Back/ack.qmd
       - 03-Back/colophon.qmd
+    - links.qmd
 
 bibliography: refs/Library.yaml
 csl: refs/casebook.csl
@@ -78,3 +85,32 @@ format:
         <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
         <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
         <meta name="robots" content="noarchive">
+  pdf:
+    documentclass: scrbook
+    classoption: [letterpaper, 12pt, DIV=9, openright]
+    has-frontmatter: true
+    toc: true
+    toc-flat: true
+    toc-depth: 4
+    toc-title: "Contents"
+    number-sections: true
+    number-depth: 2
+    template-partials:
+      - "pdf/partials/before-body.tex"
+      - "pdf/partials/after-body.tex"
+    include-in-header:
+      - "pdf/partials/in-header.tex"
+    linkcolor: DarkMidnightBlue
+    citecolor: DarkMidnightBlue
+    urlcolor: DarkMidnightBlue
+    pdftitle: "Civil Procedure: An Open-Source Casebook"
+    pdfauthor: Eric M. Fink
+    pdfcreator: LaTeX via pandoc
+    colorlinks: true
+    urlstyle: tt
+    keep-tex: false
+    output-file: Quarto_Casebook
+filters:
+  - latex-environment
+environments: [legalcode]
+commands: [casesection,casesubsection,casesubsubsection]
