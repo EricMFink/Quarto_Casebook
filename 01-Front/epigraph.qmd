@@ -4,6 +4,6 @@
 
 > [{{< var epigraph.quote >}}]{.epigraph-quote}
  
-[[{{< fa solid pen-nib >}}]{.theme-color} {{< var epigraph.author >}}, _epigraph.source_ (epigraph.date)]{.epigraph-citation}
+[[{{< fa solid pen-nib >}}]{.theme-color} {{< var epigraph.author >}}, _{{< var epigraph.source >}}_ ({{< var epigraph.date >}})]{.epigraph-citation}
 
 :::
