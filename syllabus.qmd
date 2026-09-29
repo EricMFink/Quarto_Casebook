@@ -5,7 +5,7 @@ format:
     number-sections: false
   pdf:
     template: pdf/syllabus.tex
-    output-file: Quarto_CasebookSyllabus
+    output-file: CivProSyllabus
 ---
 
 # Syllabus {.unnumbered}
@@ -39,8 +39,6 @@ format:
 ###### {{< var ta >}} {.unlisted}
 
 ###### [{{< var ta-email >}}](mailto:{{< var ta-email >}}) {.unlisted}
-
-###### Office hours: {{< var ta-hours >}} {.unlisted}
 
 :::
 

@@ -12,21 +12,13 @@ Civil Procedure: An Open-Source Casebook (v.5.0 2026). Available on the course w
 
 ## Suggested
 
-Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024). 
+Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024).
 
 # Policies
 
 ## Grading
 
-Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
-
-- The Click & Learn assignments are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. 
-	- Required lessons within each unit are indicated by a due date of December 7. Click & Learn lessons without a due date are not required and will not count toward your final grade.
-	- You may work on the Click & Learn lessons at your own pace and may redo them as many times as you like, as long as you complete them all by December 7. Your grade will be based on your highest score for each lesson. 
-	- You will receive full credit for the Click & Learn portion of the final grade if you complete all required lessons with an overall average of 90% or greater. Otherwise, this portion of your grade will be based on the percentage of lessons completed and answered correctly. 
-- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample questions from past exams are posted on the [course website](https://www.emfink.net/CivPro/). 
-
-Consistent with [ABA Standard 310](https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/standards/2025-2026/2025-2026-standards-chapter-3.pdf), [Elon Law School policy](https://eloncdn.blob.core.windows.net/eu3/sites/996/2020/01/GSO-Student-Handbook-2025-26.pdf) requires that "Each credit hour of in-class instructional time must also require at least two additional hours of out-of-class student work." Completion of the assigned reading and Click & Learn lessons will satisfy this requirement.
+Your final grade for the term will be based on a midterm quiz (20%), a final examination (70%) and class participation (10%). 
 
 ## Attendance
 
@@ -48,13 +40,9 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 # Schedule & Assignments
 
-_Note:_ This class will not meet on Sept. 7, Sept.21, and Oct. 16. 
-
 ### 1\. Foundations of Civil Procedure
 
 - _Clermont_ chap. 1 & 2
-
-- _Click & Learn_ Basic Skills & Fundamentals
 
 #### Monday, August 31
 
@@ -63,8 +51,6 @@ _Note:_ This class will not meet on Sept. 7, Sept.21, and Oct. 16.
 ### 2\. Parties and Claims
 
 - _Clermont_ chap. 6 
-
-- _Click & Learn_ Unit 6 (parts 1, 2, & 3)
 
 #### Wednesday, September 2 
 
@@ -89,109 +75,3 @@ _Note:_ This class will not meet on Sept. 7, Sept.21, and Oct. 16.
 #### Wednesday, September 16 
 
 - Joinder Wrap-Up
-
-### 3\. Personal Jurisdiction
-
-- _Clermont_ chap. 4: §§ 4.2-4.4 
-
-- _Click & Learn_ Unit 1 (parts 1-7)
-
-#### Friday, September 18 & Wednesday, September 23
-
-- Constitutional Limits: Due Process, _Casebook_ Chap. 3, § 3.1 
-
-#### Friday, September 25 & Monday, September 28
-
-- Specific Jurisdiction, _Casebook_ Chap. 3, § 3.2
-
-#### Wednesday, September 30
-
-- General Jurisdiction, _Casebook_ Chap. 3, § 3.3
-
-#### Friday, October 2
-
-- Consent; Long-Arm Statutes, _Casebook_ Chap. 3, §§ 3.4 & 3.5
-
-### 4\. Subject Matter Jurisdiction
-
-- _Clermont_ chap. 4: § 4.1 
-
-- _Click & Learn_ Unit 3 (parts 1-4 & 6)
-
-#### Monday, October 5 & Wednesday, October 7
-
-- Constitutinal Foundation; Federal Question Jurisdiction, _Casebook_ Chap. 4, §§ 4.1 & 4.2
-
-#### Friday, October 9 & Monday, October 12 
-
-- Diversity Jurisdiction, _Casebook_ Chap. 4, § 4.3 
-
-#### Wednesday, October 14 & Monday, October 19
-
-- Supplemental Jurisdiction, _Casebook_ Chap. 4, § 4.4
-
-### 5\. Choice of Governing Law
-
-- _Clermont_ chap. 3 
-
-- _Click & Learn_ Unit 9 
-
-#### Wednesday, October 21 & Friday, October 23
-
-- The Rules of Decision Act, _Casebook_ Chap. 5, § 5.1 
-
-#### Monday, October 26 & Wednesday, October 28
-
-- The Rules Enabling Act; Synthesis, _Casebook_ Chap. 5, §§ 5.2 & 5.3
-
-### 6\. Pleading
-
-- _Clermont_ chap. 2: § 2.2(A) 
-
-- _Click & Learn_ Unit 5 (parts 1-3, & 5)
-
-#### Friday, October 30
-
-- Pleading Under the Federal Rules, _Casebook_ Chap. 6, §§ 6.1
-
-#### Monday, November 2 & Wednesday, November 4
-
-- Assessing the Sufficiency of a Claim, _Casebook_ Chap. 6, §§ 6.2
-
-#### Friday, November 6
-
-- Answers & Defenses _Casebook_ Chap. 6, § 6.3
-
-#### Monday, November 9
-
-- Truthfulness and Good Faith, _Casebook_ Chap. 6, § 6.4
-
-### 7\. Effect of Judgments
-
-- _Clermont_ chap. 5 
-
-- _Click & Learn_ Unit 10 (part 1 only)
-
-#### Wednesday, November 11 & Friday, November 13
-
-- Full Faith & Credit; Claim Preclusion, _Casebook_ Chap. 7, §§ 7.1 & 7.2
-
-#### Monday, November 16 & Wednesday, November 18
-
-- Issue Preclusion, _Casebook_ Chap. 7, § 7.3 
-
-### 8\. Summary Judgment
-
-- _Clermont_ chap. 2: § 2.2 (E)(2)
-
-- _Click & Learn_ Unit 8 (part 1 sec. III only) 
-
-#### Friday, November 20
-
-- Judgment as a Matter of Law; Genuine Issue of Material Fact, _Casebook_  Chap. 8
-
----
-
-**Date TBA** Final Review
-
-**Date TBA** Final Exam
