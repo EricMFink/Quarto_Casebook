@@ -51,7 +51,7 @@ book:
     - links.qmd
 
 bibliography: refs/Library.yaml
-csl: refs/casebook.csl
+csl: refs/indigobook-inline.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true
 
